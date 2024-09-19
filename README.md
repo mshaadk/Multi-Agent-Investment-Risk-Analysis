@@ -2,7 +2,7 @@
 
 ## Overview
 
-The project is a multi-agent system designed to monitor, analyze, and optimize trading strategies in real-time. Leveraging advanced statistical modeling, machine learning techniques, and risk assessment, this system aims to provide actionable insights and enhance trading decisions for various stocks.
+The project is a multi-agent system designed to monitor, analyze, and optimize trading strategies in real-time. Leveraging advanced statistical modeling, machine learning techniques, and risk assessment. This system aims to provide actionable insights and enhance trading decisions for various stocks.
 
 ## Features
 
